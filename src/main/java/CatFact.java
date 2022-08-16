@@ -43,7 +43,7 @@ public class CatFact {
 
     @Override
     public String toString() {
-        return "Post" +
+        return "CatFacts" +
                 "\n id=" + id +
                 "\n text=" + text +
                 "\n type=" + type +
